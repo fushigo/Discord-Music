@@ -4,8 +4,9 @@ This Discord bot is specifically designed for playing music on your Discord serv
 ## CHANGE
 - Change the Id value with the Id you have at [config.json](https://github.com/Fushigo/Discord-Music/blob/main/config.json)
 ## INSTALL
+- git clone https://github.com/Fushigo/Discord-Music.git
+- cd Discord-Music
 - npm install
-- npm update
-- npm deploy-commands.js
 ## RUN
+- node deploy-commands.js
 - node index.js
